@@ -76,5 +76,11 @@
     "year": "2025_WS",
     "status": 0
   },
-  
+  {
+    "title": "Shellshock v2",
+    "folder": "shellshock_v2",
+    "author": "Noah Aspöck",
+    "year": "2025_WS",
+    "status": -1
+  }
 ]
